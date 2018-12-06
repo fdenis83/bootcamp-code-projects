@@ -1,0 +1,15 @@
+:root{
+    --backgroundColor: #fcfcfc;
+}
+body{
+    background: var(--backgroundColor);
+}
+#quiz ul{
+    list-style: none;
+}
+#quiz ul li{
+    margin:10px 0 0 0;
+}
+.btn-outline-secondary{
+    background-color: var(--backgroundColor);
+}
